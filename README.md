@@ -1,6 +1,8 @@
 An open-source crypto currency exchange
 =====================================
 
+**I'LL BE BACK**
+
 [![Code Climate](https://codeclimate.com/github/peatio/peatio.png)](https://codeclimate.com/github/peatio/peatio)
 [![Build Status](https://travis-ci.org/peatio/peatio.png?branch=master)](https://travis-ci.org/peatio/peatio)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/peatio/peatio?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -78,9 +80,9 @@ You must know what you're doing, there's no shortcut. Please get prepared before
 
 ### Getting started
 
-* [Setup on Mac OS X](doc/setup-osx.md)
-* [Setup on Ubuntu](doc/setup-ubuntu.md)
-* [Deploy production server](doc/deploy-ubuntu.md)
+* [Setup on Mac OS X](doc/setup-local-osx.md)
+* [Setup on Ubuntu](doc/setup-local-ubuntu.md)
+* [Deploy production server](doc/deploy-production-server.md)
 
 ### API
 
